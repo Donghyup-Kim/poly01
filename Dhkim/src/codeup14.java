@@ -8,7 +8,6 @@ public class codeup14 {
 		System.out.print(a+" "+a+" "+a);
 		sc.close();
 		
-
 	}
 
 }
