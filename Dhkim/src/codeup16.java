@@ -12,6 +12,7 @@ public class codeup16 {
         int y3 = Integer.valueOf(mobnum[2]);
         
         System.out.printf("%04d.%02d.%02d",y1,y2,y3);
+        sc.close();
         
 	}
 
